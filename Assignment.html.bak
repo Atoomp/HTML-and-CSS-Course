@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+      <head>
+	      <title>Funny Pets</title>
+	  </head>
+	  <body>
+	         <h1>Funny Pets</h1>
+			 
+<nav>
+  <a href="Assignment.html">Home</a>  |
+  <a href="cat_photo.html">CAT Photo</a>  |
+  <a href="cat_video.html">CAT Video</a>  |
+  <a href="dogphoto.html">DOG Photo</a>  |
+  <a href="dog_video.html">DOG Video</a>
+</nav>
+
+
+      </body>
+</html>
